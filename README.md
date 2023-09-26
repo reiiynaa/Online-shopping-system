@@ -6,4 +6,7 @@ cosmetic products online. It is full-fledged e-commerce site where customer can 
 The aim of the project is to provide a platform for online makeup products buying. This project is a cosmetics shopping store and enables to shop over the Internet.
 The consumer receives from his favorite business the online purchasing and home delivery service.
 
+![admin order view](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/beeb7a38-3088-462b-930d-a45487a1fd5c)
+
+
 
