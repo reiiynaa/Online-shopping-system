@@ -6,12 +6,11 @@ cosmetic products online. It is full-fledged e-commerce site where customer can 
 I have used html, css, php and JS to build this online cosmetics shopping system. It includes the online payment method too in the application.
 
 HOMEPAGE
+
 ![homepage](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/04eadb24-15b5-46d4-95be-f985d291912d)
 
-PRODUCTS VIEW
-![product](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/93930a75-26e7-4ca4-b72b-239be5837317)
-
 PAYMENT PROCESS
+
 ![payment process](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/145ab6cb-be5a-4046-973a-978915133d07)
 
 
