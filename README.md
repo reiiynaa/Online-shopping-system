@@ -3,10 +3,17 @@ E-commerce website project!!
 
 This is an online shopping ecommerce website project system. I have developed an online shopping website.  Online beauty cosmetics is a web portal developed to display and sell
 cosmetic products online. It is full-fledged e-commerce site where customer can search products, purchase them and also add them to wishlist so as to purchase it future.
-The aim of the project is to provide a platform for online makeup products buying. This project is a cosmetics shopping store and enables to shop over the Internet.
-The consumer receives from his favorite business the online purchasing and home delivery service.
+I have used html, css, php and JS to build this online cosmetics shopping system. It includes the online payment method too in the application.
 
-![admin order view](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/beeb7a38-3088-462b-930d-a45487a1fd5c)
+HOMEPAGE
+![homepage](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/04eadb24-15b5-46d4-95be-f985d291912d)
+
+PRODUCTS VIEW
+![product](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/93930a75-26e7-4ca4-b72b-239be5837317)
+
+PAYMENT PROCESS
+![payment process](https://github.com/reiiynaa/Online-shopping-system/assets/70642328/145ab6cb-be5a-4046-973a-978915133d07)
+
 
 
 
